@@ -1,3 +1,3 @@
-def projects = ["cdi","stabilitypatterns"]
+def projects = ["cdi-experiment","stabilitypatterns"]
 println projects
 include (*projects)
